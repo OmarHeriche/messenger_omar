@@ -24,9 +24,5 @@ I have developed a feature-rich Discord-clone application, showcasing my experti
 - **Testing:** Jest for unit testing to ensure code quality and reliability.
 
 ## Challenges and Solutions
-- **Scalability:** Implemented a robust architecture to handle increased user load and ensure the application remains responsive.
-- **Security:** Ensured secure communication and data storage by implementing SSL/TLS encryption and following best practices for user data protection.
 - **Performance Optimization:** Utilized caching mechanisms and optimized database queries to ensure fast and responsive user interactions.
 
-## Conclusion
-This Discord-clone project allowed me to deepen my understanding of real-time communication and full-stack development. It is a testament to my ability to deliver complex, user-centered applications that are both functional and visually appealing.
